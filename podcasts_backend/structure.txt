@@ -1,0 +1,6 @@
+a person on frontend will send us audio to server ( to a specfic room ) 
+backend will catch that and same for others on the room 
+all the audio will be mixed somehow 
+
+and the new stream will be sent concurently  to all 
+
