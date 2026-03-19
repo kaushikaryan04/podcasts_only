@@ -15,3 +15,8 @@ uvicorn==0.35.0
 # WebRTC audio streaming
 aiortc
 av
+
+# Testing
+pytest
+pytest-asyncio
+httpx
